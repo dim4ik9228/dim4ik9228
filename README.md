@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! 
+And welcome to the Los Pollos Hermanos Family!
+My name is Gustavo, but you can call me Gus!
 
 <!--
 **dim4ik9228/dim4ik9228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
