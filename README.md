@@ -2,7 +2,7 @@
 .NET Engineer
 
 ## 💬 Contacts:
-📧: dimaras0909@gmail.com
+- 📧: dimaras0909@gmail.com
 
-tg: https://t.me/gachiBASS_tatarstan
+- tg: https://t.me/gachiBASS_tatarstan
 
